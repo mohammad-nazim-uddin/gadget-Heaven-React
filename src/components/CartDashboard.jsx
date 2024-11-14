@@ -13,8 +13,8 @@ const CartDashboard = ({ products, handleRemoveProduct }) => {
                 </div>
                 <div className='grid gap-5'>
                     <div className='flex  lg:w-[900px] justify-between '>
-                        <p className='font-bold text-3xl text-red-500'>{product_title}</p>
-                        <div onClick={() =>handleRemoveProduct(product_id) } className='text-4xl'>
+                        <p className='font-bold text-3xl'>{product_title}</p>
+                        <div  onClick={() =>handleRemoveProduct(product_id) } className='text-4xl text-red-500'>
                             <IoCloseCircleOutline />
                         </div>
                     </div>

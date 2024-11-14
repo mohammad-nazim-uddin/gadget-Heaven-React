@@ -58,7 +58,7 @@ const addTowishlist = (product)=>{
     console.log(wishlisht)
     wishlisht.push(product)
     localStorage.setItem('wishlist', JSON.stringify(wishlisht))
-    toast.success("Successfully added")
+    toast.success("This product Successfully added to your wishlist")
 
 }
 
