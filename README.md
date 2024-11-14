@@ -1,7 +1,7 @@
 # GadgetLive 
-## [live Site link](https://gadgetlive.netlify.app/)
+## live Site link-- [https://gadgetlive.netlify.app/](https://gadgetlive.netlify.app/)
 
-** React fundamental concepts use in this project **
+### React fundamental concepts use in this project
 * react componets 
 * props and props dealing
 * react state management
