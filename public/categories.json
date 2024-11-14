@@ -1,0 +1,19 @@
+[
+    {
+        "id": "P001",
+        "category": "Smartphones"
+    },
+    {
+        "id": "P002",
+        "category": "Laptops"
+    },
+    {
+        "id": "P003",
+        "category": "Headphones"
+    },
+    {
+        "id": "P004",
+        "category": "Monitors"
+    }
+   
+]

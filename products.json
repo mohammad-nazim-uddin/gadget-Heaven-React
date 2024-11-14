@@ -1,0 +1,257 @@
+[
+    {
+        "product_id": "P001",
+        "product_title": "Apple iPhone 15 Pro Max",
+        "product_image": "https://i.ibb.co/9bfspxD/phone-Nokia.webp",
+        "category": "Smartphones",
+        "price": 1299,
+        "description": "Experience the ultimate smartphone with the iPhone 15 Pro Max.",
+        "specification": [
+            "6.7-inch Super Retina XDR display",
+            "A17 Bionic chip",
+            "Triple-camera system (48MP Main, 12MP Telephoto, 12MP Ultrawide)",
+            "LiDAR Scanner",
+            "Up to 2TB storage"
+        ],
+        "availability": true,
+        "rating": 4.8
+    },
+    {
+        "product_id": "P002",
+        "product_title": "Samsung Galaxy S23 Ultra",
+        "product_image": "https://i.ibb.co/DRz48sb/phone-samsung-galaxy.webp",
+        "category": "Smartphones",
+        "price": 1199,
+        "description": "Capture life’s moments with stunning clarity on the Galaxy S23 Ultra.",
+        "specification": [
+            "6.8-inch Dynamic AMOLED display",
+            "Snapdragon 8 Gen 2",
+            "Quad-camera system (200MP Main, 12MP Ultrawide, 10MP Telephoto, 10MP Periscope)",
+            "5000mAh battery",
+            "Up to 1TB storage"
+        ],
+        "availability": true,
+        "rating": 4.7
+    },
+    {
+        "product_id": "P003",
+        "product_title": "Google Pixel 8 Pro",
+        "product_image": "https://i.ibb.co/1bDSZZr/phone-motorolla.webp",
+        "category": "Smartphones",
+        "price": 999,
+        "description": "The best of Google, now in your hands with the Pixel 8 Pro.",
+        "specification": [
+            "6.7-inch OLED display",
+            "Google Tensor G3 chip",
+            "Triple-camera system (50MP Main, 12MP Ultrawide, 48MP Telephoto)",
+            "Face and fingerprint unlock",
+            "5000mAh battery"
+        ],
+        "availability": true,
+        "rating": 4.6
+    },
+    {
+        "product_id": "P004",
+        "product_title": "OnePlus 11 Pro",
+        "product_image": "https://i.ibb.co/QM23LNW/phoneo-one-Plus.webp",
+        "category": "Smartphones",
+        "price": 849,
+        "description": "Fast and smooth performance with OnePlus 11 Pro.",
+        "specification": [
+            "6.7-inch Fluid AMOLED display",
+            "Snapdragon 8 Gen 2",
+            "Triple-camera system (50MP Main, 48MP Ultrawide, 32MP Telephoto)",
+            "5000mAh battery",
+            "80W fast charging"
+        ],
+        "availability": true,
+        "rating": 4.5
+    },
+    {
+        "product_id": "P005",
+        "product_title": "Sony Xperia 1 V",
+        "product_image": "https://i.ibb.co/bKcbnND/phones-oppo.webp",
+        "category": "Smartphones",
+        "price": 999,
+        "description": "Perfect for content creators with the Sony Xperia 1 V.",
+        "specification": [
+            "6.5-inch 4K HDR OLED display",
+            "Snapdragon 8 Gen 2",
+            "Triple-camera system (48MP Main, 12MP Ultrawide, 12MP Telephoto)",
+            "Up to 1TB expandable storage",
+            "5000mAh battery"
+        ],
+        "availability": true,
+        "rating": 4.3
+    },
+    {
+        "product_id": "P006",
+        "product_title": "ASUS ROG Phone 7",
+        "product_image": "https://i.ibb.co/QcdbYbN/phones-vivo.webp",
+        "category": "Smartphones",
+        "price": 1099,
+        "description": "Built for gaming, the ASUS ROG Phone 7 is a powerhouse.",
+        "specification": [
+            "6.8-inch AMOLED display",
+            "Snapdragon 8 Gen 2",
+            "Triple-camera system (50MP Main, 13MP Ultrawide, 5MP Macro)",
+            "6000mAh battery",
+            "Up to 512GB storage"
+        ],
+        "availability": true,
+        "rating": 4.6
+    },
+    {
+        "product_id": "P007",
+        "product_title": "Dell XPS 15",
+        "product_image": "https://i.ibb.co/Kmm0qQ3/laptopo-dell-latitude.webp",
+        "category": "Laptops",
+        "price": 1899,
+        "description": "Premium laptop with stunning visuals and powerful performance.",
+        "specification": [
+            "15.6-inch 4K UHD+ display",
+            "Intel Core i7-13700H",
+            "NVIDIA GeForce RTX 4050",
+            "1TB SSD",
+            "16GB RAM"
+        ],
+        "availability": true,
+        "rating": 4.8
+    },
+    {
+        "product_id": "P008",
+        "product_title": "MacBook Pro 16-inch",
+        "product_image": "https://i.ibb.co/mqnFz4f/apple-macbook.webp",
+        "category": "Laptops",
+        "price": 2499,
+        "description": "The best MacBook for professionals and creatives.",
+        "specification": [
+            "16-inch Liquid Retina XDR display",
+            "Apple M2 Max chip",
+            "Up to 96GB RAM",
+            "Up to 8TB storage",
+            "100Wh battery"
+        ],
+        "availability": true,
+        "rating": 4.9
+    },
+    {
+        "product_id": "P009",
+        "product_title": "Sony WH-1000XM5",
+        "product_image": "https://i.ibb.co/9g9CcvW/headphoneo-havit.jpg",
+        "category": "Headphones",
+        "price": 399,
+        "description": "Experience industry-leading noise cancellation with Sony WH-1000XM5.",
+        "specification": [
+            "40mm driver unit",
+            "Adaptive noise cancellation",
+            "Up to 30 hours battery life",
+            "Quick charge (10 mins for 5 hours)",
+            "Bluetooth 5.2"
+        ],
+        "availability": true,
+        "rating": 4.7
+    },
+    {
+        "product_id": "P010",
+        "product_title": "Bose QuietComfort 45",
+        "product_image": "https://i.ibb.co/Rp7LbkP/headphone-apple-airpod-mini.webp",
+        "category": "Headphones",
+        "price": 329,
+        "description": "Enjoy the perfect balance of quiet, comfort, and sound.",
+        "specification": [
+            "TriPort acoustic architecture",
+            "Adjustable EQ",
+            "Up to 24 hours battery life",
+            "Quick charge (15 mins for 3 hours)",
+            "Bluetooth 5.1"
+        ],
+        "availability": true,
+        "rating": 4.6
+    },
+    {
+        "product_id": "P011",
+        "product_title": "HP Spectre x360 14",
+        "product_image": "https://i.ibb.co/JcQqBR4/ideapad-laptop.webp",
+        "category": "Laptops",
+        "price": 1599,
+        "description": "A versatile and powerful 2-in-1 laptop for creators.",
+        "specification": [
+            "13.5-inch 3K2K OLED display",
+            "Intel Core i7-1250U",
+            "Intel Iris Xe Graphics",
+            "1TB SSD",
+            "16GB RAM"
+        ],
+        "availability": true,
+        "rating": 4.7
+    },
+    {
+        "product_id": "P012",
+        "product_title": "Lenovo ThinkPad X1 Carbon",
+        "product_image": "https://i.ibb.co/Bqxgsxc/laptop.webp",
+        "category": "Laptops",
+        "price": 1799,
+        "description": "An ultra-lightweight business laptop with premium features.",
+        "specification": [
+            "14-inch FHD+ display",
+            "Intel Core i7-1260P",
+            "Intel Iris Xe Graphics",
+            "512GB SSD",
+            "16GB RAM"
+        ],
+        "availability": true,
+        "rating": 4.8
+    },
+    {
+        "product_id": "P013",
+        "product_title": "Sennheiser Momentum 4",
+        "product_image": "https://i.ibb.co/BZzTXvY/headphone-basus.webp",
+        "category": "Headphones",
+        "price": 349,
+        "description": "Premium sound quality with Sennheiser's flagship headphones.",
+        "specification": [
+            "42mm transducer",
+            "Adaptive noise cancellation",
+            "Up to 60 hours battery life",
+            "Quick charge (10 mins for 6 hours)",
+            "Bluetooth 5.2"
+        ],
+        "availability": true,
+        "rating": 4.7
+    },
+    {
+        "product_id": "P014",
+        "product_title": "Microsoft Surface Laptop Studio",
+        "product_image": "https://i.ibb.co/R3cRRwG/laptop-dell-inspiron.webp",
+        "category": "Laptops",
+        "price": 2299,
+        "description": "A laptop designed for digital artists and power users.",
+        "specification": [
+            "14.4-inch PixelSense Flow display",
+            "Intel Core i7-11370H",
+            "NVIDIA GeForce RTX 3050 Ti",
+            "512GB SSD",
+            "16GB RAM"
+        ],
+        "availability": true,
+        "rating": 4.5
+    },
+    {
+        "product_id": "P015",
+        "product_title": "Beats Studio3 Wireless",
+        "product_image": "https://i.ibb.co/znytkkg/headphone-apple-airpod.webp",
+        "category": "Headphones",
+        "price": 349,
+        "description": "High-performance wireless noise-cancelling headphones.",
+        "specification": [
+            "Pure Adaptive Noise Cancelling (Pure ANC)",
+            "Up to 22 hours battery life",
+            "Fast Fuel (10 minutes for 3 hours)",
+            "Bluetooth",
+            "Soft over-ear cushions"
+        ],
+        "availability": true,
+        "rating": 4.4
+    }
+]
